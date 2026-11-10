@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ripon_logo.png" alt="Ripon AI Photo Studio" width="220">
+  <img src="[ripon_logo.png](https://raw.githubusercontent.com/thestartinglightofearth/Ripon-Computer-Studio/refs/heads/main/ripon_logo.png)" alt="Ripon AI Photo Studio" width="220">
 </p>
 
 <h1 align="center">RIPON AI PHOTO STUDIO</h1>
